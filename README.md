@@ -3,9 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat" alt="mmanikandan281" /> </p>
 
+- 🔭 I’m currently studing on **sadanam kumaran college ,pathiripala palakkad**
+
 - 🌱 I’m currently learning **Artificial Intelligence, Python, Datascince**
 
+- 👯 I’m looking to collaborate on **open-source projects that revolve around data analysis and visualization. My goal is to leverage and contribute to initiatives that address real-world challenges using data-driven insights**
+
+- 🤝 I’m Seeking a **challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings**
+
 - 👨‍💻 All of my projects are available at [https://github.com/mmanikandan281?tab=repositories](https://github.com/mmanikandan281?tab=repositories)
+
+- 💬 Let's Connect: [I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!](I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!)
+
+- 🌟 Here's what I'm all about: **🔬 Data Science: I love diving into data, extracting insights, and building predictive models. From data preprocessing to model deployment, I thrive on turning raw information into actionable intelligence. 🤖 Artificial Intelligence: Exploring the cutting-edge of AI is my jam. Whether it's machine learning, deep learning, or natural language processing, I'm always eager to experiment with new techniques and technologies.**
+
+- 🔗 Connect with me: - **LinkedIn: https://www.linkedin.com/in/manikandan-m-3bb994292/ - Instagram: https://instagram.com/mani_oyassco_?igshid=MzMyNGUyNmU2YQ== - Mail: mmanikandan281@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,9 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&locale=en" alt="mmanikandan281" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&" alt="mmanikandan281" /></p>
-
-
-<!---
-mmanikandan281/mmanikandan281 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
