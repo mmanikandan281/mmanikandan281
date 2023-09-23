@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/manikandan-m-3bb994292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manikandan-m-3bb994292/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manikandan-m-3bb994292/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/manikandan-m-3bb994292/" height="30" width="40" /></a>
 <a href="https://kaggle.com/manikandan m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="manikandan m" height="30" width="40" /></a>
 <a href="https://fb.com/mani oyassco" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mani oyassco" height="30" width="40" /></a>
 <a href="https://instagram.com/mani_oyassco_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mani_oyassco_" height="30" width="40" /></a>
