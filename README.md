@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manikandan M</h1>
-<h3 align="center">A passionate data scientist and AI enthusiast.</h3>
+<h3 align="center">A passionate Data scientist and AI enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat" alt="mmanikandan281" /> </p>
 
