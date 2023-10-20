@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat" alt="mmanikandan281" /> </p>
 
-- 🔭 I’m currently studing at **sadanam kumaran college ,pathiripala palakkad**
+- 🔭 I’m currently studying at **sadanam kumaran college ,pathiripala palakkad**
 
 - 🌱 I’m currently learning **Artificial Intelligence, Python, Datascience**
 
