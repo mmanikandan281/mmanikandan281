@@ -5,7 +5,7 @@
 
 - 🔭 I’m  graduated at **sadanam kumaran college ,pathiripala palakkad**
 
-- 🌱 I’m currently learning **Artificial Intelligence, Python, Datascience**
+- 🌱 I'm excited to ** explore the possibilities of building intelligent systems with Python and leverage GitHub's vast resources to learn from the AI community.**
 
 - 👯 I’m looking to collaborate on **open-source projects that revolve around data analysis and visualization. My goal is to leverage and contribute to initiatives that address real-world challenges using data-driven insights**
 
