@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat" alt="mmanikandan281" /> </p>
 
-- 🔭 I’m  graduated at **sadanam kumaran college ,pathiripala palakkad**
+- 🔭 I’m  graduated on **BCA** in **sadanam kumaran college ,pathiripala palakkad**
 
 - 🌱 I'm excited to **explore the possibilities of building intelligent systems with Python and leverage GitHub's vast resources to learn from the AI community.**
 
