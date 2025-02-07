@@ -12,10 +12,10 @@
 ## 🚀 About Me  
 
 - 🎓 **Graduate** in **BCA** from **University of Calicut**  
-- 🌱 Passionate about **AI, Machine Learning, and Data Science**  
-- 👨‍💻 Exploring **Python, Deep Learning, and Open-Source Projects**  
-- 🔍 Looking to collaborate on **Data Science & Visualization projects**  
-- 🎯 Seeking a **challenging role to expand my skills & knowledge**  
+- 🌱 Passionate about **Front-End Development & Machine Learning**  
+- 👨‍💻 Exploring **React.js, JavaScript and ML Model Development**  
+- 🔍 Looking to collaborate on **Web Development & AI-powered applications**  
+- 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
 
 📂 **Check out my work:**  
 [![GitHub Repositories](https://img.shields.io/badge/My%20Projects-%2300BFFF.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmanikandan281?tab=repositories)  
