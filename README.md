@@ -80,19 +80,13 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-
-  <br />
-
-  <img src="https://streak-stats.demolab.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-
-  <br />
-
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight" alt="GitHub Streak" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight" alt="Top Languages" />
-
-</div>
+</p>
 
 ---
 ### 💬 Let's Collaborate!
