@@ -81,21 +81,17 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left">
-        <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-      <td align="right">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=radical" alt="GitHub Streak" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=radical" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
+  <br />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight" alt="Top Languages" />
+
 </div>
 
 ---
