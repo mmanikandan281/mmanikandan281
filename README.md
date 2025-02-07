@@ -17,7 +17,7 @@
 
 - 🌟 Here's what I'm all about: **🔬 Data Science: I love diving into data, extracting insights, and building predictive models. From data preprocessing to model deployment, I thrive on turning raw information into actionable intelligence. 🤖 Artificial Intelligence: Exploring the cutting-edge of AI is my jam. Whether it's machine learning, deep learning, or natural language processing, I'm always eager to experiment with new techniques and technologies.**
 
-- 🔗 Connect with me: - **LinkedIn: https://www.linkedin.com/in/manikandan-m-3bb994292/ - Instagram: https://instagram.com/mani_oyassco_?igshid=MzMyNGUyNmU2YQ== - Mail: mmanikandan281@gmail.com**
+  📩 **Email:** mmanikandan281@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
