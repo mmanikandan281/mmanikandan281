@@ -1,21 +1,23 @@
-<h1 align="center">Hi 👋, I'm Manikandan M</h1>
-<h3 align="center">A passionate Data scientist and AI enthusiast.</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Manikandan+M;Data+Scientist+%7C+AI+Enthusiast;Machine+Learning+%7C+Deep+Learning+%7C+Python" alt="Typing Animation" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat" alt="mmanikandan281" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+</p>
 
-- 🔭 I’m  graduated on **BCA** at **University of calicut**
+---
 
-- 🌱 I'm excited to **explore the possibilities of building intelligent systems with Python and leverage GitHub's vast resources to learn from the AI community.**
+## 🚀 About Me  
 
-- 👯 I’m looking to collaborate on **open-source projects that revolve around data analysis and visualization. My goal is to leverage and contribute to initiatives that address real-world challenges using data-driven insights**
+- 🎓 **Graduate** in **BCA** from **University of Calicut**  
+- 🌱 Passionate about **AI, Machine Learning, and Data Science**  
+- 👨‍💻 Exploring **Python, Deep Learning, and Open-Source Projects**  
+- 🔍 Looking to collaborate on **Data Science & Visualization projects**  
+- 🎯 Seeking a **challenging role to expand my skills & knowledge**  
 
-- 🤝 I’m Seeking a **challenging position in a reputed organization where I can learn new skills, expand my knowledge, and leverage my learnings**
-
-- 👨‍💻 All of my projects are available at [https://github.com/mmanikandan281?tab=repositories](https://github.com/mmanikandan281?tab=repositories)
-
-- 💬 Let's Connect: [I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!](I'm always open to collaboration and discussion. Whether you're interested in data science, AI, or just want to chat, don't hesitate to reach out!)
-
-- 🌟 Here's what I'm all about: **🔬 Data Science: I love diving into data, extracting insights, and building predictive models. From data preprocessing to model deployment, I thrive on turning raw information into actionable intelligence. 🤖 Artificial Intelligence: Exploring the cutting-edge of AI is my jam. Whether it's machine learning, deep learning, or natural language processing, I'm always eager to experiment with new techniques and technologies.**
+📂 **Check out my work:**  
+[![GitHub Repositories](https://img.shields.io/badge/My%20Projects-%2300BFFF.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmanikandan281?tab=repositories)  
 
   📩 **Email:** mmanikandan281@gmail.com  
 
