@@ -17,7 +17,8 @@
 - 🔍 Looking to collaborate on **Web Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
 
-📂 **Check out my work:**  <br>
+📂 **Check out my work:** 
+<br>
 [![GitHub Repositories](https://img.shields.io/badge/My%20Projects-%2300BFFF.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmanikandan281?tab=repositories)  
 
   📩 **Email:** mmanikandan281@gmail.com  
