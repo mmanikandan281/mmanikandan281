@@ -78,9 +78,9 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-  <a href="https://www.databricks.com/machine-learning" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Machine_learning_logo.svg" alt="machine_learning" width="40" height="40"/>
-  </a>
+<a href="https://mlflow.org/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/MLflowLogo.png" alt="mlflow" width="40" height="40"/>
+</a>
 </p>
 
 ### 📊 GitHub Stats
