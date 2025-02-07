@@ -1,70 +1,51 @@
+### Hi there, I'm Manikandan M! 👋
+#### Data Scientist | AI Enthusiast | Open-Source Contributor
 
-<h1 align="center">Hi 👋, I'm Manikandan M</h1>
-<h3 align="center">A Passionate Data Scientist and AI Enthusiast</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=mmanikandan281&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
-
-### 👨‍💻 About Me:
-
-- 🎓 **BCA Graduate** from **University of Calicut**
-- 🌱 Exploring **AI, Machine Learning, and Data Science** with Python
-- 👯 Open to collaborate on **Data Analysis & AI Projects**
-- 🔭 Passionate about **Building Intelligent Systems**
-- 💡 Enthusiastic about **Open-Source Contributions**
-- 🚀 Always eager to **learn, explore, and grow** in the AI community
-
-🔗 **Check out my projects:** [GitHub Repositories](https://github.com/mmanikandan281?tab=repositories)
-
-📧 **Let's Connect:** Feel free to reach out for collaborations or discussions on **Data Science & AI**.
+### 🚀 About Me
+- 🎓 **Graduated in BCA** from **University of Calicut**
+- 🔍 Exploring **AI, Machine Learning, and Data Science**
+- 💡 Passionate about **building intelligent systems with Python**
+- 📊 Love **data visualization, predictive modeling, and analytics**
+- 👯 Looking to collaborate on **open-source data science projects**
+- 🤝 Seeking a **challenging role in a reputed organization**
+- 🔗 **[Check out my projects!](https://github.com/mmanikandan281?tab=repositories)**
 
 ---
-
-### 📌 Connect with Me:
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manikandan-m-3bb994292/" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" /></a>
-  <a href="https://www.kaggle.com/manikandanm2003" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="40" /></a>
-  <a href="https://www.instagram.com/mxniiiii._?igsh=MjduNnBqeXpzNWx5" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" /></a>
-  <a href="https://www.hackerrank.com/mmanikandan281?hr_r=11" target="blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hackerrank/hackerrank-original.svg" alt="HackerRank" width="40" /></a>
-</p>
-
-📩 **Email:** mmanikandan281@gmail.com  
+### 🌍 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manikandan-m-3bb994292/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/manikandanm2003)
+[![HackerRank](https://img.shields.io/badge/HackerRank-32CD32?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/mmanikandan281?hr_r=11)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mxniiiii._?igsh=MjduNnBqeXpzNWx5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mmanikandan281@gmail.com)
 
 ---
-
-### 🛠️ Tech Stack & Tools:
-
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
-</p>
+### 🛠️ Languages & Tools
+<div align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+</div>
 
 ---
-
-### 📊 GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ---
-
-🔥 **Let's build and innovate together!** 🚀
-```
-
+### 💬 Let's Collaborate!
+> "I'm always open to new ideas and collaborations in AI and data science. Let's connect and build something amazing together!"
