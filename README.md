@@ -19,7 +19,7 @@
 
 📂 **Check out my work:** 
 <br>
-[![GitHub Repositories](https://img.shields.io/badge/My%20Projects-%2300BFFF.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/mmanikandan281?tab=repositories)  
+[![Portfolio](https://portfolio-manikandan-m.vercel.app/)  
 
   📩 **Email:** mmanikandan281@gmail.com  
 
