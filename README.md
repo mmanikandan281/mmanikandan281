@@ -93,8 +93,8 @@
 
   <br />
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight" alt="Top Languages" />
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
 </div>
 
