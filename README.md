@@ -88,8 +88,8 @@
   
   <br />
 
-<!-- GitHub Streak Stats (Updated Link) -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+<!-- GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 
   <br />
 
