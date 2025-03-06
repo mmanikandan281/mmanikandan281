@@ -18,7 +18,9 @@
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
 
 📂 **Check out my work:**  
-[![Portfolio](https://portfolio-manikandan-m.vercel.app/)](https://portfolio-manikandan-m.vercel.app/)
+
+[![Portfolio](https://img.shields.io/badge/🚀%20View%20Portfolio-181717?style=for-the-badge&logo=vercel)](https://portfolio-manikandan-m.vercel.app/)
+
 
   📩 **Email:** mmanikandan281@gmail.com  
 
