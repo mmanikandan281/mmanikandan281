@@ -84,10 +84,7 @@
 
 <div align="center">
   
-## 📊 GitHub Stats  
-
-
-## 📊 GitHub Stats  
+ 
 
 <!-- GitHub Streak Stats -->
 ![GitHub Streak](https://streak-stats.liuli.lol?user=mmanikandan281&theme=tokyonight&hide_border=false)
