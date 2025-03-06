@@ -88,9 +88,9 @@
   
   <br />
 
-  <!-- GitHub Streak Stats (Reliable Source) -->
-  <img src="https://streak-stats.demolab.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  
+<!-- GitHub Streak Stats (Updated Link) -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+
   <br />
 
   <!-- Top Languages -->
