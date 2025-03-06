@@ -90,8 +90,8 @@
   
   <!-- GitHub Streak Stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  </a>
+<!-- GitHub Streak Stats (Alternative Host) -->
+<img src="https://streak-stats.liuli.lol?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 
   <br />
 
