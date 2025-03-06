@@ -17,9 +17,8 @@
 - 🔍 Looking to collaborate on **Web Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
 
-📂 **Check out my work:** 
-<br>
-[![Portfolio](https://portfolio-manikandan-m.vercel.app/)  
+📂 **Check out my work:**  
+[![Portfolio](https://portfolio-manikandan-m.vercel.app/)](https://portfolio-manikandan-m.vercel.app/)
 
   📩 **Email:** mmanikandan281@gmail.com  
 
