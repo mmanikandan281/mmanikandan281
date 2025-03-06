@@ -84,8 +84,8 @@
 <div align="center">
   
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight&hide_border=false)
+
   <br />
 
 <!-- GitHub Streak Stats -->
