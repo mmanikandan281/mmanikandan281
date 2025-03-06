@@ -86,28 +86,17 @@
   
 ## 📊 GitHub Stats  
 
-<div align="center">
-  
-  <!-- GitHub Streak Stats -->
-  <a href="https://git.io/streak-stats">
-<!-- GitHub Streak Stats (Alternative Host) -->
-<img src="https://streak-stats.liuli.lol?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 
-  <br />
+## 📊 GitHub Stats  
 
-  <!-- GitHub Stats -->
-  <a href="https://github.com/mmanikandan281">
-    <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-  </a>
+<!-- GitHub Streak Stats -->
+![GitHub Streak](https://streak-stats.liuli.lol?user=mmanikandan281&theme=tokyonight&hide_border=false)
 
-  <br />
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight&hide_border=false)
 
-  <!-- Top Languages -->
-  <a href="https://github.com/mmanikandan281">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-  </a>
-
-</div>
+<!-- Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight&hide_border=false)
 
 
 ---
