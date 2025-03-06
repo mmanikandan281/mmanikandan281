@@ -84,18 +84,31 @@
 
 <div align="center">
   
-  <!-- GitHub Streak Stats (Updated URL) -->
-  ![GitHub Streak](https://streak-stats.liuli.lol/?user=mmanikandan281&theme=tokyonight&hide_border=false)
+## 📊 GitHub Stats  
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  </a>
 
   <br />
 
-  <img src="https://streak-stats.liuli.lol/?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <a href="https://github.com/mmanikandan281">
+    <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  </a>
 
   <br />
 
-  <img src="https://streak-stats.liuli.lol/?user=mmanikandan281&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <!-- Top Languages -->
+  <a href="https://github.com/mmanikandan281">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+  </a>
 
 </div>
+
 
 ---
 ### 💬 Let's Collaborate!
