@@ -19,7 +19,7 @@
 
 📂 **Check out my work:**  
 
-[![Portfolio](https://img.shields.io/badge/🚀%20View%20Portfolio-181717?style=for-the-badge&logo=vercel)](https://portfolio-manikandan-m.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/-🚀%20View%20Portfolio-orange?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-manikandan-m.vercel.app/)
 
 
   📩 **Email:** mmanikandan281@gmail.com  
