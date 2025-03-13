@@ -35,49 +35,69 @@
 
 <h3 align="center">Languages and Tools</h3>
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <style>
+    .icon-container {
+      border-radius: 15px;
+      overflow: hidden;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: #f0f0f0;
+      width: 70px;
+      height: 70px;
+      transition: all 0.3s ease;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+    .icon-container:hover {
+      transform: scale(1.1);
+      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
+      background: #e0e0e0;
+    }
+  </style>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
   </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
   </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="border-radius: 50%; overflow: hidden; display: flex; justify-content: center; align-items: center; background: #f0f0f0; width: 60px; height: 60px;">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
 </p>
+
 
 
 
