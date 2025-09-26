@@ -12,7 +12,7 @@
 ## 🚀 About Me  
 
 - 🎓 **Graduate** in **BCA** from **University of Calicut**  
-- 🌱 Passionate about **Front-End Development & Machine Learning**  
+- 🌱 Passionate about **Software development & Machine Learning**  
 - 👨‍💻 Exploring **React.js, JavaScript and ML Model Development**  
 - 🔍 Looking to collaborate on **Web Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
