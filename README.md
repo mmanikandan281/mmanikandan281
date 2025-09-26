@@ -112,5 +112,5 @@
 
 ---
 ### 💬 Let's Collaborate!
-> "I'm always open to new ideas and collaborations in AI and data science. Let's connect and build something amazing together!"
+> "I'm always open to new ideas and collaborations in AI and software development. Let's connect and build something amazing together!"
 
