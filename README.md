@@ -13,8 +13,8 @@
 
 - 🎓 **Graduate** in **BCA** from **University of Calicut**  
 - 🌱 Passionate about **Software development & Machine Learning**  
-- 👨‍💻 Exploring **React.js, JavaScript and ML Model Development**  
-- 🔍 Looking to collaborate on **Web Development & AI-powered applications**  
+- 👨‍💻 Exploring **Go, gRPC, React.js, JavaScript and ML Model Development**  
+- 🔍 Looking to collaborate on **Web Development, Software Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
 
 📂 **Check out my work:**  
