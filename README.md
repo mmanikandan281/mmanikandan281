@@ -92,25 +92,5 @@
 
 
 
-
-### 📊 GitHub Stats
-
-
-<div align="center">
-  
- 
-
-<!-- GitHub Streak Stats -->
-![GitHub Streak](https://streak-stats.liuli.lol?user=mmanikandan281&theme=tokyonight&hide_border=false)
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight&hide_border=false)
-
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight&hide_border=false)
-
-
----
-### 💬 Let's Collaborate!
-> "I'm always open to new ideas and collaborations in AI and software development. Let's connect and build something amazing together!"
+nnect and build something amazing together!"
 
