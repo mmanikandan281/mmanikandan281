@@ -92,5 +92,3 @@
 
 
 
-nnect and build something amazing together!"
-
