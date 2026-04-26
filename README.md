@@ -16,19 +16,11 @@
 - 👨‍💻 Exploring **Go, gRPC, React.js, JavaScript and ML Model Development**  
 - 🔍 Looking to collaborate on **Web Development, Software Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
-
-📂 **Check out my work:**  
-
-[![Portfolio](https://img.shields.io/badge/-🚀%20View%20Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-manikandan-m.vercel.app/)
-
-
-  📩 **Email:** mmanikandan281@gmail.com  
-
 <h1 align="center">Hi 👋, I'm Manikandan M</h1>
 <h3 align="center">🚀 Software Developer | AI & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=6C63FF&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F5D4&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Go+Developer;AI+Enthusiast" />
 </p>
 
 ---
@@ -46,7 +38,7 @@
 
 <p align="center">
   <a href="https://portfolio-manikandan-m.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black"/>
   </a>
 </p>
 
@@ -57,7 +49,7 @@
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,go" />
 </p>
 
 ### 🌐 Web Development
@@ -70,9 +62,9 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
 </p>
 
 ### 🗄️ Database & Tools
@@ -86,8 +78,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mmanikandan281&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmanikandan281&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -95,18 +87,35 @@
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmanikandan281&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manikandan-m-3bb994292/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.kaggle.com/manikandanm2003"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://www.hackerrank.com/mmanikandan281"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/></a>
-  <a href="mailto:mmanikandan281@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+
+  <a href="https://www.linkedin.com/in/manikandan-m-3bb994292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.kaggle.com/manikandanm2003">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/mmanikandan281">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+  </a>
+
+  <a href="https://www.instagram.com/mxniiiii._">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+  <a href="mailto:mmanikandan281@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
@@ -116,3 +125,4 @@
 💬 *“Building intelligent systems and impactful software — one project at a time.”*
 
 ⭐ From [Manikandan M](https://github.com/mmanikandan281)
+
