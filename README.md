@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://portfolio-manikandan-m.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
@@ -90,7 +90,7 @@
   </a>
 
   <a href="https://www.hackerrank.com/mmanikandan281">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+    <img src="https://img.shields.io/badge/HackerRank-2563EB?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
 
   <a href="https://www.instagram.com/mxniiiii._">
