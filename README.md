@@ -34,7 +34,7 @@
 ### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,html,js,go" />
+  <img src="https://skillicons.dev/icons?i=python,js,go" />
 </p>
 
 ### 🌐 Web Development
