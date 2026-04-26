@@ -16,21 +16,6 @@
 - 👨‍💻 Exploring **Go, gRPC, React.js, JavaScript and ML Model Development**  
 - 🔍 Looking to collaborate on **Web Development, Software Development & AI-powered applications**  
 - 🎯 Seeking a **challenging role to enhance my skills & build innovative solutions**  
-<h1 align="center">Hi 👋, I'm Manikandan M</h1>
-<h3 align="center">🚀 Software Developer | AI & ML Enthusiast</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00F5D4&center=true&vCenter=true&width=500&lines=Machine+Learning+Engineer;Full+Stack+Developer;Go+Developer;AI+Enthusiast" />
-</p>
-
----
-
-## 🚀 About Me
-
-✨ Passionate about building **AI-powered applications & scalable systems**
-💡 Exploring **Go, gRPC, React.js & Machine Learning**
-🎯 Focused on **real-world problem solving through tech**
-🤝 Open to collaboration on **ML & Web projects**
 
 ---
 
@@ -38,7 +23,7 @@
 
 <p align="center">
   <a href="https://portfolio-manikandan-m.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-00F5D4?style=for-the-badge&logo=vercel&logoColor=black"/>
+    <img src="https://img.shields.io/badge/🚀%20View%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
